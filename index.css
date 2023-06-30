@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Capraismo';
+    src: url("../fonts/Caprasimo/Caprasimo-Regular.ttf");
+}
+
 body {
     padding: 0px;
     max-width: 100vw;
@@ -11,6 +16,28 @@ body {
     align-items: center;
     text-align: justify;
 }
+
+.texto {
+    color: rgb(1, 1, 1);
+    font-family: "Capraismo";
+}
+
 img {
     align-self: center;
 }
+
+    .espacamento {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    }
+    
+    .espacamento2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    }
