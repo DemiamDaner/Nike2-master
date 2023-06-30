@@ -1,0 +1,16 @@
+body {
+    padding: 0px;
+    max-width: 100vw;
+    overflow-x: hidden;
+}
+
+.site {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+img {
+    align-self: center;
+}
